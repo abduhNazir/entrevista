@@ -16,16 +16,4 @@ Requisitos técnicos:
 
 
 
-******************************************************************************************************************************************
-Implementação do sistema
- - PHP 
- - HTML
- - Framework - Bootstrap com o uso de um template free (http://www.blacktie.co/demo/dashgum/index.html)
- - Mysql - phpmyadmin
- 
- Desenvolvimento
-  1 - PHP Orientado a Objeto
-  1.1 - class
-  1.2 - constants
-  1.3 - SQL Linguage
-  1.4 - Html
+**************************************************************************************************************************************
